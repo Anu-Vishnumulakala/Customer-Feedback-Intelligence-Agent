@@ -23,6 +23,3 @@ This enables faster, data-driven decision making for marketing and product teams
  - Results are aggregated into a business summary
  - Insights are displayed in a dashboard
 
-
-## 📂 Project Structure
-
